@@ -5,5 +5,5 @@
 ### Lyapunov approach
 ### Input-to-state stability (ISS)
 ### Asymptotic and Exponential stability
-### Fredolhm Backstepping method
+### Fredolhm Backstepping method, ...
 ###### Contacts : dagbegnon.loko@enpc.fr / dagbegnon-epiphane.loko@centralesupelec.fr
