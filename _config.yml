@@ -2,7 +2,8 @@ theme: jekyll-theme-minimal
 title: Epiphane Loko
 description: >
   CERMICS, École Nationale des Ponts et Chaussées | L2S, Paris-Saclay University
-  | email: "mailto: dagbegnon.loko@enpc.fr"
+params:
+   email: "mailto: dagbegnon.loko@enpc.fr"
 
 
 
