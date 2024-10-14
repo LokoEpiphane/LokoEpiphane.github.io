@@ -76,5 +76,6 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
   *Ongoing teaching assignment focusing on advanced topics in mathematical analysis.*
 
 ---
+[CV](./assets/A_Customised_CurVe_CV__1_ (2).pdf)
 
 
