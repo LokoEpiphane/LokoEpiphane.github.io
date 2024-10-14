@@ -4,3 +4,5 @@ description: >
   CERMICS, École Nationale des Ponts et Chaussées | L2S, Paris-Saclay University
   | Contact: dagbegnon.loko@enpc.fr / dagbegnon-epiphane.loko@centralesupelec.fr
 custom_css: assets/css/styles.css
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
+
