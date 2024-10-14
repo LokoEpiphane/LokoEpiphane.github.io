@@ -76,5 +76,5 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
   *Ongoing teaching assignment focusing on advanced topics in mathematical analysis.*
 
 ---
-[CV](https://github.com/LokoEpiphane/CV.git)
+[CV](./CV/cv.pdf)
 
