@@ -1,4 +1,3 @@
-[cv.pdf](https://github.com/user-attachments/files/17374402/cv.pdf)
 # About Me
 
 ## PhD Candidate in Control, Stability, and Stabilization Theory
@@ -77,4 +76,4 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
   *Ongoing teaching assignment focusing on advanced topics in mathematical analysis.*
 
 ---
-
+[cv.pdf](https://github.com/user-attachments/files/17374402/cv.pdf)
