@@ -1,3 +1,4 @@
+[cv.pdf](https://github.com/user-attachments/files/17374402/cv.pdf)
 # About Me
 
 ## PhD Candidate in Control, Stability, and Stabilization Theory
