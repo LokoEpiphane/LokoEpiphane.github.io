@@ -4,5 +4,3 @@ description: >
   CERMICS, École Nationale des Ponts et Chaussées | L2S, Paris-Saclay University
   | dagbegnon.loko@enpc.fr
 
-jekyll clean && jekyll build
-
