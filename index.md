@@ -21,17 +21,15 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 ### Journal Articles
 1. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, “Fredholm Backstepping and Rapid Stabilization of General Linear Systems,” *Preprint*, 2024.
 2. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, “Building Coercive Lyapunov–Krasovskii Functionals Based on Razumikhin and Halanay Approaches,” *International Journal of Robust and Nonlinear Control*, 2024.  
-   *This article presents novel approaches for designing Lyapunov–Krasovskii functionals, improving stability analysis for time-delay systems.*
-
+   
 ### Conference Proceedings
 1. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://hal.science/hal-04688473/)**, “Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation,” in *2024 IEEE 63rd Conference on Decision and Control (CDC)*, IEEE, 2024.  
-   *The paper introduces new growth conditions that guarantee input-to-state stability in time-delay systems under certain dissipation constraints.*
-
+   
 ---
 
 ## Academic Presentations and Talks
 
-- **Input-to-State Stability of Time-Delay Systems: Lyapunov-Based Results**  
+- **[Input-to-State Stability of Time-Delay Systems: Lyapunov-Based Results](https://cermics-lab.enpc.fr/wp-content/uploads/2017/03/Presentation_Cermics.pdf)**  
   *Young Researcher Seminar, CERMICS*, April 2023  
   *Presented the application of Lyapunov techniques to time-delay systems for ensuring stability.*
 
@@ -39,7 +37,7 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
   *Ph.D. Students and Postdoc Seminar, L2S*, June 2023  
   *Introduced new point-wise dissipation criteria for analyzing ISS in time-delay systems.*
 
-- **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
+- **[Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation](https://canum2024.math.cnrs.fr/programme/soumission/9550b0e6-6cde-4273-9cf6-ba8950814927/presentation.pdf)**  
   *Congrès National d’Analyse Numérique*, May 2024  
   *Focused on new conditions required to maintain input-to-state stability in systems with point-wise dissipation.*
 
@@ -76,4 +74,4 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
   *Ongoing teaching assignment focusing on advanced topics in mathematical analysis.*
 
 ---
-[cv.pdf](https://github.com/user-attachments/files/17374402/cv.pdf)
+[Here is my cv](https://github.com/user-attachments/files/17374402/cv.pdf)
