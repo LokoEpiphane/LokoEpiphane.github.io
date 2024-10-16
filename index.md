@@ -30,7 +30,7 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
   *PhD Student Day, L2S*, September 2024  
   *Discussed methods to strengthen stability conditions in time-delay systems.*
 
-  - **Building Coercive Lyapunov-Krasovskii Functionals Based on Razumikhin and Halanay Conditions**  
+- **Building Coercive Lyapunov-Krasovskii Functionals Based on Razumikhin and Halanay Conditions**  
   *Ph.D. Students and Postdoc Seminar, L2S*, June 2024  
   *Detailed new functional designs using Razumikhin and Halanay methods for stabilizing time-delay systems.*
 
@@ -62,7 +62,7 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
   *Analysis and Partial Differential Equations*, 1st-year undergraduate students (15 hours)  
   *Taught a semester-long course on PDEs, focusing on both theoretical analysis and real-world applications.*
 
-  - **January 2023**  
+- **January 2023**  
   *Practical work*, Master 1 IMI (3 hours)  
   *Supervised laboratory sessions focused on control system simulations and practical exercises.*
 
