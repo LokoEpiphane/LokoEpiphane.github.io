@@ -43,7 +43,7 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 
 - **[Input-to-State Stability of Time-Delay Systems: Lyapunov-Based Results](https://cermics-lab.enpc.fr/wp-content/uploads/2017/03/Presentation_Cermics.pdf)**  
   *Young Researcher Seminar, CERMICS*, April 2023  
-  *Presented the application of Lyapunov techniques to time-delay systems for ensuring stability.* **[video]{ https://www.youtube.com/watch?v=6dXmpGbGNpE}**
+  *Presented the application of Lyapunov techniques to time-delay systems for ensuring stability.* **[video](https://www.youtube.com/watch?v=6dXmpGbGNpE)**
 
 
 ---
