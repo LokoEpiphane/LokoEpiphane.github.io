@@ -36,7 +36,11 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 
 - **[Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation](https://canum2024.math.cnrs.fr/programme/soumission/9550b0e6-6cde-4273-9cf6-ba8950814927/presentation.pdf)**  
   *Congrès National d’Analyse Numérique*, May 2024  
-  *Focused on new conditions required to maintain input-to-state stability in systems with point-wise dissipation.* 
+  *Focused on new conditions required to maintain input-to-state stability in systems with point-wise dissipation.*
+
+  - **Poster: Point-Wise Dissipation Conditions in Input-to-State Stability for Time-Delay Systems**  
+  *PhD Student Day, L2S*, September 2023  
+  
 - **Novel Point-Wise Dissipation Conditions in Input-to-State Stability for Time-Delay Systems**  
   *Ph.D. Students and Postdoc Seminar, L2S*, June 2023  
   *Introduced new point-wise dissipation criteria for analyzing ISS in time-delay systems.*
@@ -61,6 +65,9 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 - **September 2023 – January 2024**  
   *Analysis and Partial Differential Equations*, 1st-year undergraduate students (15 hours)  
   *Taught a semester-long course on PDEs, focusing on both theoretical analysis and real-world applications.*
+
+  - **September 2023 – October 2023**  
+  *Analysis and Partial Differential Equations*, Tutoring and exercise sessions of 1st-year undergraduate students (10 hours)  
 
 - **January 2023**  
   *Practical work*, Master 1 IMI (3 hours)  
