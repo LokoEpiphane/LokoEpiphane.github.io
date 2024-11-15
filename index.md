@@ -4,13 +4,6 @@
 
 I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet](https://l2s.centralesupelec.fr/u/chaillet-antoine/)** (L2S, CentraleSupélec, Paris-Saclay University) and **[Amaury Hayat](http://cermics.enpc.fr/~hayata/)** (CERMICS, École Nationale des Ponts et Chaussées), since September 2022. My research is focused on control theory, specifically on the stability and stabilization of infinite-dimensional systems, including time-delay systems and partial differential equations (PDEs).
 
-### Research Interests
-
-- **Nonlinear Time-Delay Systems**: Investigating the behavior and control of systems with inherent delays.
-- **Partial Differential Equations (PDEs)**: Studying control strategies for systems governed by PDEs.
-- **Input-to-State Stability (ISS)**: Examining the robustness of nonlinear systems under external disturbances.
-- **Backstepping method**: Implementing F-equivalence for rapid stabilization of systems, particularly those modeled by PDEs.
-
 ---
 
 ## Research Publications
