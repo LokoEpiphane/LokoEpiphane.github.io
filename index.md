@@ -23,7 +23,8 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 *Best Presentation Award of the Automatic team at L2S*, PhD Student Day
 
 -**September 2021-July 2022**
-*Bezout M2 scholarship
+*Bezout M2 scholarship*
+
 
 ---
 
@@ -82,7 +83,6 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 
 ---
 
-[Here is my CV](https://github.com/user-attachments/files/17400455/A_Customised_CurVe_CV__1_.2.pdf)
-
+[Here is my CV](https://github.com/user-attachments/files/18099959/A_Customised_CurVe_CV__1_.3.pdf)
 
 
