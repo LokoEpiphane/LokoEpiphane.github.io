@@ -17,7 +17,7 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
    
 ---
 
-##  Award
+##  Awards
 
 -**September 2024**:
 *Best Presentation Award of the Automatic team at L2S*, PhD Student Day
