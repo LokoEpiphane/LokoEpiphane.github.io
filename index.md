@@ -9,12 +9,22 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 ## Research Publications
 
 ### Journal Articles
-1. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, “Fredholm Backstepping and Rapid Stabilization of General Linear Systems,” *Preprint*, 2024.
+1. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, “Rapid Stabilization of General Linear Systems with F-equivalence,” *Preprint*, 2024.
 2. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, “Building Coercive Lyapunov–Krasovskii Functionals Based on Razumikhin and Halanay Approaches,” *International Journal of Robust and Nonlinear Control*, 2024.  
    
 ### Conference Proceedings
 1. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://hal.science/hal-04688473/)**, “Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation,” in *2024 IEEE 63rd Conference on Decision and Control (CDC)*, IEEE, 2024.  
    
+---
+
+##  Award
+
+-**September 2024**:
+*Best Presentation Award of the Automatic team at L2S*, PhD Student Day
+
+-**September 2021-July 2022**
+*Bezout M2 scholarship
+
 ---
 
 ## Academic Presentations and Talks
@@ -72,15 +82,6 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 
 ---
 
-##  Award
-
--**September 2024**:
-*Best Presentation Award of the Automatic team at L2S*, PhD Student Day
-
-
-
-
----
 [Here is my CV](https://github.com/user-attachments/files/17400455/A_Customised_CurVe_CV__1_.2.pdf)
 
 
