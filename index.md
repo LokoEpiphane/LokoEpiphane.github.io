@@ -22,7 +22,7 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 -**September 2024**:
 *Best Presentation Award of the Automatic team at L2S*, PhD Student Day
 
--**September 2021-July 2022**
+-**September 2021-July 2022**:
 *Bezout M2 scholarship*
 
 
