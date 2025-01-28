@@ -72,6 +72,6 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
   
 ---
 
-[Here is my CV][A_Customised_CurVe_CV__1_ (4).pdf](https://github.com/user-attachments/files/18575351/A_Customised_CurVe_CV__1_.4.pdf)
+[Here is my CV][CV](https://github.com/user-attachments/files/18575351/A_Customised_CurVe_CV__1_.4.pdf)
 
 
