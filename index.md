@@ -30,6 +30,9 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 ## Academic Presentations and Talks
 
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
+  *Conference on Decision and Control*, December 2024 
+
+- **Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
   *PhD Student Day, L2S*, September 2024  
   
 - **Building Coercive Lyapunov-Krasovskii Functionals Based on Razumikhin and Halanay Conditions**  
@@ -52,8 +55,8 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 
 ## Teaching Experience
 
-- **Since September 2024**  
-  *Analysis and Partial Differential Equations*, 1st-year undergraduate students  
+- **September 2024-January 2025**  
+  *Analysis and Partial Differential Equations*, 1st-year undergraduate students (30 hours) 
 
 - **April 2024**  
   *Sobolev Spaces and Distribution Theory*, Master 1 IMI (4 hours)  
@@ -72,6 +75,6 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
   
 ---
 
-[Here is my CV](https://github.com/user-attachments/files/18575351/A_Customised_CurVe_CV__1_.4.pdf)
+[Here is my CV](https://github.com/user-attachments/files/18690641/CV_Epiphane.pdf)
 
 
