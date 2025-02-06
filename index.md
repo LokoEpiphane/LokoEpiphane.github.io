@@ -41,7 +41,7 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 - **[Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation](https://canum2024.math.cnrs.fr/programme/soumission/9550b0e6-6cde-4273-9cf6-ba8950814927/presentation.pdf)**  
   *Congrès National d’Analyse Numérique*, May 2024  
 
-- **Poster: Point-Wise Dissipation Conditions in Input-to-State Stability for Time-Delay Systems**  
+- **Poster: Getting LKF-wise dissipation to ensure Input-to-State Stability for Time-Delay Systems**  
   *PhD Student Day, L2S*, September 2023  
   
 - **Novel Point-Wise Dissipation Conditions in Input-to-State Stability for Time-Delay Systems**  
