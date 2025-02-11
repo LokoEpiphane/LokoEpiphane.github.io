@@ -11,16 +11,12 @@ My research focuses on control theory, especially the stability and stabilizatio
 
  
 ## 📖 **Table of Contents**
-
-<div id="table-of-contents">
  
 - [🏆 Awards](#awards)
 - [📚 Research Publications](#research-publications)
 - [🎤 Academic Talks](#academic-presentations-and-talks)
 - [👨‍🏫 Teaching Experience](#teaching-experience)
 - [📄 CV](https://github.com/user-attachments/files/18690641/CV_Epiphane.pdf)
-
-</div>
 
 ---
 
