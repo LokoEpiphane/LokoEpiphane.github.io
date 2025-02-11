@@ -7,14 +7,14 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 My research focuses on control theory, especially the stability and stabilization of finite and infinite-dimensional systems, including time-delay systems and partial differential equations (PDEs).  
 
 ---
-<div id="table-of-contents">
+
 ## 📖 **Table of Contents**
 - [🏆 Awards](#awards)
 - [📚 Research Publications](#research-publications)
 - [🎤 Academic Talks](#academic-presentations-and-talks)
 - [👨‍🏫 Teaching Experience](#teaching-experience)
 - [📄 CV](https://github.com/user-attachments/files/18690641/CV_Epiphane.pdf)
-</div>
+
 ---
 
 
