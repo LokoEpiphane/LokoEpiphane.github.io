@@ -1,4 +1,4 @@
-## <a name="about-me"></a> ℹ️ About Me  
+##  ℹ️ About Me  
 
 ### **PhD Candidate in Control, Stability, and Stabilization Theory**  
 
@@ -8,7 +8,6 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ---
 ## 📖 **Table of Contents**
-- [🔗 About Me](#about-me)
 - [🏆 Awards](#awards)
 - [📚 Research Publications](#research-publications)
 - [🎤 Academic Talks](#academic-presentations-and-talks)
