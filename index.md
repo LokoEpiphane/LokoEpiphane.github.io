@@ -1,3 +1,12 @@
+## <a name="about-me"></a> ℹ️ About Me  
+
+### **PhD Candidate in Control, Stability, and Stabilization Theory**  
+
+I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet](https://l2s.centralesupelec.fr/u/chaillet-antoine/)** (L2S, CentraleSupélec, Paris-Saclay University) and **[Amaury Hayat](http://cermics.enpc.fr/~hayata/)** (CERMICS, École des Ponts), since September 2022.  
+
+My research focuses on control theory, especially the stability and stabilization of finite and infinite-dimensional systems, including time-delay systems and partial differential equations (PDEs).  
+
+---
 ## 📖 **Table of Contents**
 - [🔗 About Me](#about-me)
 - [🏆 Awards](#awards)
@@ -8,15 +17,6 @@
 
 ---
 
-## <a name="about-me"></a> ℹ️ About Me  
-
-### **PhD Candidate in Control, Stability, and Stabilization Theory**  
-
-I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet](https://l2s.centralesupelec.fr/u/chaillet-antoine/)** (L2S, CentraleSupélec, Paris-Saclay University) and **[Amaury Hayat](http://cermics.enpc.fr/~hayata/)** (CERMICS, École des Ponts), since September 2022.  
-
-My research focuses on control theory, especially the stability and stabilization of finite and infinite-dimensional systems, including time-delay systems and partial differential equations (PDEs).  
-
----
 
 ## <a name="awards"></a> 🏆 Awards  
 
