@@ -69,7 +69,6 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ## 📜 **Custom JavaScript and CSS**
 
-```html
 <style>
 /* Cache toutes les sections sauf "About Me" */
 .content-section {
