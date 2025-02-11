@@ -68,7 +68,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 ---
 
 ## 📜 **Custom JavaScript and CSS**
-
+{% raw %}
 <style>
 /* Cache toutes les sections sauf "About Me" */
 .content-section {
@@ -114,3 +114,4 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 </script>
+{% endraw %}
