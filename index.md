@@ -30,10 +30,9 @@ My research focuses on control theory, especially the stability and stabilizatio
 </div>
 
 ---
-
-## <a name="research-publications"></a> 📚 Research Publications  
-
 <div class="content-section">
+ 
+## <a name="research-publications"></a> 📚 Research Publications  
  
 ### **Journal Articles**  
 1. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, *Rapid Stabilization of General Linear Systems with F-equivalence*, **Preprint, 2024**.  
@@ -45,10 +44,9 @@ My research focuses on control theory, especially the stability and stabilizatio
 </div>
 
 ---
-
-## <a name="academic-presentations-and-talks"></a> 🎤 Academic Presentations and Talks  
-
 <div class="content-section">
+ 
+## <a name="academic-presentations-and-talks"></a> 🎤 Academic Presentations and Talks  
  
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
   *IEEE Conference on Decision and Control, December 2024*
@@ -75,11 +73,10 @@ My research focuses on control theory, especially the stability and stabilizatio
 </div>
 
 ---
-
-## <a name="teaching-experience"></a> 👨‍🏫 Teaching Experience  
-
 <div class="content-section">
  
+## <a name="teaching-experience"></a> 👨‍🏫 Teaching Experience  
+
 - **September 2024 - January 2025**  
   *Analysis and Partial Differential Equations*, **1st-year undergraduate students (30 hours)**  
 
