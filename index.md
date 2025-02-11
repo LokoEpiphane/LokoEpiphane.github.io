@@ -17,10 +17,10 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ---
 
-
-## <a name="awards"></a> 🏆 Awards  
 <div class="content-section">
  
+## <a name="awards"></a> 🏆 Awards  
+
 - **September 2024**: *Best Presentation Award of the Automatic team at L2S*, PhD Student Day  
 - **September 2021 - July 2022**: *Bezout M2 scholarship*
  
@@ -94,6 +94,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 
 <style>
+ 
 /* Cacher toutes les sections sauf "About Me" */
 .content-section {
     display: none;
