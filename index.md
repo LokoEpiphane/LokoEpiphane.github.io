@@ -1,4 +1,4 @@
-.hidden-section {
+hidden-section {
   display: none;
 }
 
