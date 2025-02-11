@@ -6,27 +6,16 @@ I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet
 
 My research focuses on control theory, especially the stability and stabilization of finite and infinite-dimensional systems, including time-delay systems and partial differential equations (PDEs).  
 
----
-
-
- 
-## 📖 **Table of Contents**
- 
-## [🏆 Awards](#awards)
-## [📚 Research Publications](#research-publications)
-## [🎤 Academic Talks](#academic-presentations-and-talks)
-## [👨‍🏫 Teaching Experience](#teaching-experience)
-## [📄 CV](https://github.com/user-attachments/files/18690641/CV_Epiphane.pdf)
 
 ---
  
-## <a name="awards"></a> 🏆 Awards  
+## 🏆 Awards  
 - **September 2024**: *Best Presentation Award of the Automatic team at L2S*, PhD Student Day  
 - **September 2021 - July 2022**: *Bezout M2 scholarship*
 
 ---
  
-## <a name="research-publications"></a> 📚 Research Publications  
+## 📚 Research Publications  
  
 ### **Journal Articles**  
 1. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, *Rapid Stabilization of General Linear Systems with F-equivalence*, **Preprint, 2024**.  
@@ -37,7 +26,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ---
  
-## <a name="academic-presentations-and-talks"></a> 🎤 Academic Presentations and Talks  
+## 🎤 Academic Presentations and Talks  
  
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
   *IEEE Conference on Decision and Control, December 2024*
@@ -63,7 +52,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ---
  
-## <a name="teaching-experience"></a> 👨‍🏫 Teaching Experience  
+## 👨‍🏫 Teaching Experience  
 
 - **September 2024 - January 2025**  
   *Analysis and Partial Differential Equations*, **1st-year undergraduate students (30 hours)**  
@@ -82,60 +71,8 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ---
 
-## <a name="cv"></a> 📄 CV  
+## 📄 CV  
  
 📄 **[Download my CV](https://github.com/user-attachments/files/18690641/CV_Epiphane.pdf)**  
 
 ---
-
-### 🔎 **Navigation**  
-[⬆️ Back to Top](#📖-table-of-contents)  
-
-
-<style>
- 
-/* Cacher toutes les sections sauf "About Me" */
-.content-section {
-    display: none;
-}
-
-/* Style des liens pour la navigation */
-#table-of-contents a {
-    text-decoration: none;
-    color: #0077cc;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-#table-of-contents a:hover {
-    text-decoration: underline;
-}
-</style>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    // Récupérer tous les liens du sommaire
-    let links = document.querySelectorAll("#table-of-contents a");
-
-    links.forEach(link => {
-        link.addEventListener("click", function(event) {
-            event.preventDefault(); // Empêche le scroll par défaut
-
-            // Masquer toutes les sections
-            document.querySelectorAll(".content-section").forEach(section => {
-                section.style.display = "none";
-            });
-
-            // Récupérer l'ID de la section à afficher
-            let sectionId = this.getAttribute("href").substring(1);
-            let sectionToShow = document.querySelector(`[name="${sectionId}"]`).nextElementSibling;
-
-            // Afficher la section correspondante
-            if (sectionToShow) {
-                sectionToShow.style.display = "block";
-            }
-        });
-    });
-});
-</script>
-
