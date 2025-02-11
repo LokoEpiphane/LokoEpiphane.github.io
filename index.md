@@ -12,7 +12,7 @@ My research focuses on control theory, especially the stability and stabilizatio
  
 ## 📖 **Table of Contents**
  
-- ##[🏆 Awards](#awards)
+## [🏆 Awards](#awards)
 - [📚 ## Research Publications](#research-publications)
 - [🎤 ## Academic Talks](#academic-presentations-and-talks)
 - [👨‍🏫 ## Teaching Experience](#teaching-experience)
