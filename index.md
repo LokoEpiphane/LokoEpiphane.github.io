@@ -1,10 +1,3 @@
-# **Epiphane Loko**  
-📍 *PhD Candidate in Control Theory*  
-📌 *CERMICS, École des Ponts* | *L2S, Paris-Saclay University*  
-  
-
----
-
 ## 📖 **Table of Contents**
 - [🔗 About Me](#about-me)
 - [🏆 Awards](#awards)
