@@ -8,9 +8,12 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ---
 
-<div id="table-of-contents">
+
  
 ## 📖 **Table of Contents**
+
+<div id="table-of-contents">
+ 
 - [🏆 Awards](#awards)
 - [📚 Research Publications](#research-publications)
 - [🎤 Academic Talks](#academic-presentations-and-talks)
