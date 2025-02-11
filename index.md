@@ -91,6 +91,8 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ### 🔎 **Navigation**  
 [⬆️ Back to Top](#📖-table-of-contents)  
+
+
 <style>
 /* Cacher toutes les sections sauf "About Me" */
 .content-section {
