@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Epiphane Loko
 description: >-
-  PhD Candidate in Control Theory | CERMICS, École des Ponts & L2S, Paris-Saclay University
+  PhD Candidate in Control Theory | CERMICS, École des Ponts & L2S, Paris-Saclay University| dagbegnon.loko@enpc.fr
 
 # Activer/Désactiver le bouton de téléchargement sur GitHub Pages
 show_downloads: false
@@ -14,4 +14,3 @@ menu:
   - "[🎤 Academic Talks](#academic-presentations-and-talks)"
   - "[👨‍🏫 Teaching Experience](#teaching-experience)"
   - "[📄 CV](https://github.com/user-attachments/files/18690641/CV_Epiphane.pdf)"
-📧 **dagbegnon.loko@enpc.fr**
