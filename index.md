@@ -38,10 +38,22 @@ My research focuses on control theory, especially the stability and stabilizatio
 ## <a name="academic-presentations-and-talks"></a> 🎤 Academic Presentations and Talks  
 
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
-  *IEEE Conference on Decision and Control, December 2024*  
+  *IEEE Conference on Decision and Control, December 2024*
+
+- **Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
+  *PhD Student Day, L2S*, September 2024  
+  
+- **Building Coercive Lyapunov-Krasovskii Functionals Based on Razumikhin and Halanay Conditions**  
+  *PhD Students and Postdoc Seminar, L2S*, June 2024  
 
 - **[Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation](https://canum2024.math.cnrs.fr/programme/soumission/9550b0e6-6cde-4273-9cf6-ba8950814927/presentation.pdf)**  
-  *Congrès National d’Analyse Numérique, May 2024*  
+  *Congrès National d’Analyse Numérique, May 2024*
+
+- **Poster: Getting LKF-wise dissipation to ensure Input-to-State Stability for Time-Delay Systems**  
+  *PhD Student Day, L2S*, September 2023  
+  
+- **Novel Point-Wise Dissipation Conditions in Input-to-State Stability for Time-Delay Systems**  
+  *Ph.D. Students and Postdoc Seminar, L2S*, June 2023   
 
 - **[Input-to-State Stability of Time-Delay Systems: Lyapunov-Based Results](https://cermics-lab.enpc.fr/wp-content/uploads/2017/03/Presentation_Cermics.pdf)**  
   *Young Researcher Seminar, CERMICS, April 2023*  
@@ -58,8 +70,13 @@ My research focuses on control theory, especially the stability and stabilizatio
   *Sobolev Spaces and Distribution Theory*, **Master 1 IMI (4 hours)**  
 
 - **September 2023 - January 2024**  
-  *Analysis and Partial Differential Equations*, **1st-year undergraduate students (15 hours)**  
+  *Analysis and Partial Differential Equations*, **1st-year undergraduate students (25 hours)**    
 
+- **January 2023**  
+  *Practical work*, **Master 1 IMI (3 hours)**  
+
+- **December 2022**  
+  *Analysis and Scientific Calculus* (Fourier Transforms), **1st-year undergraduate students (3 hours)**  
 ---
 
 ## <a name="cv"></a> 📄 CV  
