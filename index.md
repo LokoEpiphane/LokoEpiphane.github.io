@@ -25,6 +25,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 - **September 2021 - July 2022**: *Bezout M2 scholarship*
  
 </div>
+
 ---
 
 ## <a name="research-publications"></a> 📚 Research Publications  
