@@ -26,7 +26,10 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ---
  
-## 🎤 Academic Presentations and Talks  
+## 🎤 Academic Presentations and Talks 
+
+-**Rapid stabilization of general linear PDE and ISS of TDS under point-wise dissipation**
+ *PhD Math seminar, UM5, Rabat (Maroc), February 2025 (Online)*
  
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
   *IEEE Conference on Decision and Control, December 2024*
@@ -44,7 +47,7 @@ My research focuses on control theory, especially the stability and stabilizatio
   *PhD Student Day, L2S*, September 2023  
   
 - **Novel Point-Wise Dissipation Conditions in Input-to-State Stability for Time-Delay Systems**  
-  *Ph.D. Students and Postdoc Seminar, L2S*, June 2023   
+  *PhD Students and Postdoc Seminar, L2S*, June 2023   
 
 - **[Input-to-State Stability of Time-Delay Systems: Lyapunov-Based Results](https://cermics-lab.enpc.fr/wp-content/uploads/2017/03/Presentation_Cermics.pdf)**  
   *Young Researcher Seminar, CERMICS, April 2023*  
