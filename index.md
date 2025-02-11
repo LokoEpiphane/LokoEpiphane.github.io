@@ -32,6 +32,8 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ## <a name="research-publications"></a> 📚 Research Publications  
 
+<div class="content-section">
+ 
 ### **Journal Articles**  
 1. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, *Rapid Stabilization of General Linear Systems with F-equivalence*, **Preprint, 2024**.  
 2. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, *Building Coercive Lyapunov–Krasovskii Functionals Based on Razumikhin and Halanay Approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
@@ -39,10 +41,14 @@ My research focuses on control theory, especially the stability and stabilizatio
 ### **Conference Proceedings**  
 1. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://hal.science/hal-04688473/)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE CDC 2024**.  
 
+</div>
+
 ---
 
 ## <a name="academic-presentations-and-talks"></a> 🎤 Academic Presentations and Talks  
 
+<div class="content-section">
+ 
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
   *IEEE Conference on Decision and Control, December 2024*
 
@@ -65,10 +71,14 @@ My research focuses on control theory, especially the stability and stabilizatio
   *Young Researcher Seminar, CERMICS, April 2023*  
   **[📹 Video](https://www.youtube.com/watch?v=6dXmpGbGNpE)**  
 
+</div>
+
 ---
 
 ## <a name="teaching-experience"></a> 👨‍🏫 Teaching Experience  
 
+<div class="content-section">
+ 
 - **September 2024 - January 2025**  
   *Analysis and Partial Differential Equations*, **1st-year undergraduate students (30 hours)**  
 
@@ -82,12 +92,19 @@ My research focuses on control theory, especially the stability and stabilizatio
   *Practical work*, **Master 1 IMI (3 hours)**  
 
 - **December 2022**  
-  *Analysis and Scientific Calculus* (Fourier Transforms), **1st-year undergraduate students (3 hours)**  
+  *Analysis and Scientific Calculus* (Fourier Transforms), **1st-year undergraduate students (3 hours)**
+
+</div>
+
 ---
 
 ## <a name="cv"></a> 📄 CV  
 
+<div class="content-section">
+ 
 📄 **[Download my CV](https://github.com/user-attachments/files/18690641/CV_Epiphane.pdf)**  
+
+</div>
 
 ---
 
