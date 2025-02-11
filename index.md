@@ -68,7 +68,6 @@ My research focuses on control theory, especially the stability and stabilizatio
 ---
 
 ## 📜 **Custom JavaScript and CSS**
-Ajoute ce code dans `index.md` après le contenu pour gérer l'affichage dynamique des sections.
 
 ```html
 <style>
