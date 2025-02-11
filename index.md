@@ -19,17 +19,12 @@ My research focuses on control theory, especially the stability and stabilizatio
 ## [📄 CV](https://github.com/user-attachments/files/18690641/CV_Epiphane.pdf)
 
 ---
-
-
-<div class="content-section">
  
 ## <a name="awards"></a> 🏆 Awards  
 - **September 2024**: *Best Presentation Award of the Automatic team at L2S*, PhD Student Day  
 - **September 2021 - July 2022**: *Bezout M2 scholarship*
-</div>
 
 ---
-<div class="content-section">
  
 ## <a name="research-publications"></a> 📚 Research Publications  
  
@@ -40,10 +35,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 ### **Conference Proceedings**  
 1. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://hal.science/hal-04688473/)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE CDC 2024**.  
 
-</div>
-
 ---
-<div class="content-section">
  
 ## <a name="academic-presentations-and-talks"></a> 🎤 Academic Presentations and Talks  
  
@@ -69,10 +61,7 @@ My research focuses on control theory, especially the stability and stabilizatio
   *Young Researcher Seminar, CERMICS, April 2023*  
   **[📹 Video](https://www.youtube.com/watch?v=6dXmpGbGNpE)**  
 
-</div>
-
 ---
-<div class="content-section">
  
 ## <a name="teaching-experience"></a> 👨‍🏫 Teaching Experience  
 
@@ -91,17 +80,11 @@ My research focuses on control theory, especially the stability and stabilizatio
 - **December 2022**  
   *Analysis and Scientific Calculus* (Fourier Transforms), **1st-year undergraduate students (3 hours)**
 
-</div>
-
 ---
 
 ## <a name="cv"></a> 📄 CV  
-
-<div class="content-section">
  
 📄 **[Download my CV](https://github.com/user-attachments/files/18690641/CV_Epiphane.pdf)**  
-
-</div>
 
 ---
 
