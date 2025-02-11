@@ -1,7 +1,3 @@
-hidden-section {
-  display: none;
-}
-
 ## 📖 **Table of Contents**
 - [🔗 About Me](#about-me)
 - [🏆 <a href="#" onclick="showSection('awards')">Awards</a>](#)
@@ -61,14 +57,3 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ### 🔎 **Navigation**  
 [⬆️ Back to Top](#📖-table-of-contents)  
-
-<script>
-function showSection(sectionId) {
-    var section = document.getElementById(sectionId);
-    if (section.style.display === "none" || section.style.display === "") {
-        section.style.display = "block";
-    } else {
-        section.style.display = "none";
-    }
-}
-</script>
