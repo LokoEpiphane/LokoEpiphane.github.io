@@ -1,8 +1,6 @@
 theme: jekyll-theme-minimal
 title: Epiphane Loko
-description: |
-  [CERMICS](https://cermics-lab.enpc.fr/), École nationale des ponts et chaussées &  
-  [L2S](https://l2s.centralesupelec.fr/), Paris-Saclay University | dagbegnon.loko@enpc.fr
+description: "[CERMICS](https://cermics-lab.enpc.fr/), École nationale des ponts et chaussées &  [L2S](https://l2s.centralesupelec.fr/), Paris-Saclay University | dagbegnon.loko@enpc.fr"
 
 # Activer/Désactiver le bouton de téléchargement sur GitHub Pages
 show_downloads: false
