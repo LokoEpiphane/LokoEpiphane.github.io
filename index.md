@@ -1,4 +1,4 @@
-## Epiphane Loko
+Epiphane Loko
 
 ##  ℹ️ About Me  
 
