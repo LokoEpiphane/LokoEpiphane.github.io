@@ -1,5 +1,3 @@
-Epiphane Loko
-
 ##  ℹ️ About Me  
 
 ### **PhD Candidate in Control, Stability, and Stabilization Theory**  
