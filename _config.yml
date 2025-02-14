@@ -3,13 +3,3 @@ description: CERMICS, École nationale des ponts et chaussées & L2S, Paris-Sacl
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-
-
-# Menu de navigation
-menu:
-  - "[🔗 About Me](#about-me)"
-  - "[🏆 Awards](#awards)"
-  - "[📚 Research Publications](#research-publications)"
-  - "[🎤 Academic Talks](#academic-presentations-and-talks)"
-  - "[👨‍🏫 Teaching Experience](#teaching-experience)"
-  - "[📄 CV](https://github.com/user-attachments/files/18690641/CV_Epiphane.pdf)"
