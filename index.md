@@ -10,8 +10,8 @@ title: "Epiphane Loko"
     position: absolute;
     top: 5px;
     right: 20px;
-    width: 400px;  /* Ajuste la taille */
-    height: 400px;
+    width: 390px;  /* Ajuste la taille */
+    height: 390px;
     border-radius: 50%;
   }
 </style>
