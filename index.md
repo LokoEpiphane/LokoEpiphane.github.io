@@ -37,12 +37,13 @@ My research focuses on control theory, especially the stability and stabilizatio
  
 ## 📚 Research Publications  
  
-### **Journal Articles**  
-1. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, *Rapid Stabilization of General Linear Systems with F-equivalence*, **Preprint, 2024**.  
-2. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, *Building Coercive Lyapunov–Krasovskii Functionals Based on Razumikhin and Halanay Approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
+### **Journal Articles** 
+1. **[I. Karafyllis, E. Loko, Miroslav Krstic, A. Chaillet](http://arxiv.org/abs/2502.09310)**, *Global Stabilization of Chemostats with Nonzero Mortality and Substrate Dynamics*, **Preprint, 2025** 
+2. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, *Rapid Stabilization of General Linear Systems with F-equivalence*, **Preprint, 2024**.  
+3. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, *Building Coercive Lyapunov–Krasovskii Functionals Based on Razumikhin and Halanay Approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
 
 ### **Conference Proceedings**  
-1. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://hal.science/hal-04688473/)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE CDC 2024**.  
+**[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://hal.science/hal-04688473/)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE CDC 2024**.  
 
 ---
  
@@ -52,7 +53,7 @@ My research focuses on control theory, especially the stability and stabilizatio
    *PhD Math seminar, UM5 Rabat (Morocco), February 2025: Online*
  
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
-  *IEEE Conference on Decision and Control, December 2024*
+  *IEEE Conference on Decision and Control, Milan (Italy) December 2024*
 
 - **Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
   *PhD Student Day, L2S*, September 2024  
@@ -61,7 +62,7 @@ My research focuses on control theory, especially the stability and stabilizatio
   *PhD Students and Postdoc Seminar, L2S*, June 2024  
 
 - **[Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation](https://canum2024.math.cnrs.fr/programme/soumission/9550b0e6-6cde-4273-9cf6-ba8950814927/presentation.pdf)**  
-  *Congrès National d’Analyse Numérique, May 2024*
+  *Congrès National d’Analyse Numérique, Île de Ré (La Rochelle) May 2024*
 
 - **Poster: Getting LKF-wise dissipation to ensure Input-to-State Stability for Time-Delay Systems**  
   *PhD Student Day, L2S*, September 2023  
