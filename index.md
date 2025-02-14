@@ -43,7 +43,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 3. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, *Building Coercive Lyapunov–Krasovskii Functionals Based on Razumikhin and Halanay Approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
 
 ### **Conference Proceedings**  
- 1. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://hal.science/hal-04688473/)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE CDC 2024**.  
+ 1. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://hal.science/hal-04688473/)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE Conference on Decision and Control 2024**.  
 
 ---
  
@@ -97,6 +97,6 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ## 📄 CV  
  
-📄 **[Download my CV](https://github.com/user-attachments/files/18801389/Epiphane_CV.pdf)**  
+ **[Download my CV](https://github.com/user-attachments/files/18801389/Epiphane_CV.pdf)**  
 
 ---
