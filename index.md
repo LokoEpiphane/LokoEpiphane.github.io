@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 ##  ℹ️ About Me  
 
