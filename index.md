@@ -20,7 +20,7 @@ title: "Epiphane Loko"
 
 ##  ℹ️ About Me  
 
-### **PhD Candidate in Control, Stability, and Stabilization Theory**  
+### **Ph.D. Candidate in Control, Stability, and Stabilization Theory**  
 
 I am currently pursuing a PhD under the joint supervision of **[Antoine Chaillet](https://l2s.centralesupelec.fr/u/chaillet-antoine/)** ([L2S](https://l2s.centralesupelec.fr/), Paris-Saclay University) and **[Amaury Hayat](http://cermics.enpc.fr/~hayata/)** ([CERMICS](https://cermics-lab.enpc.fr/), École nationale des ponts et chaussées), since September 2022.  
 
@@ -30,7 +30,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 ---
  
 ## 🏆 Awards  
-- **September 2024**: *Best Presentation Award of the Automatic team at L2S*, PhD Student Day  
+- **September 2024**: *Best Presentation Award of the Automatic team at L2S*, Ph.D. Student Day  
 - **September 2021 - July 2022**: *Bezout M2 scholarship*
 
 ---
@@ -43,32 +43,32 @@ My research focuses on control theory, especially the stability and stabilizatio
 3. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, *Building Coercive Lyapunov–Krasovskii Functionals Based on Razumikhin and Halanay Approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
 
 ### **Conference Proceedings**  
- 1. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://hal.science/hal-04688473/)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE Conference on Decision and Control 2024**.  
+ 1. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://hal.science/hal-04688473/)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.  
 
 ---
  
 ## 🎤 Academic Presentations and Talks 
 
 - **Rapid stabilization of general linear PDE and ISS of TDS under point-wise dissipation**
-   *PhD Math seminar, UM5 Rabat (Morocco), February 2025: Online*
+   *Ph.D. Math seminar, UM5 Rabat (Morocco), February 2025: Online*
  
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
-  *IEEE Conference on Decision and Control, Milan (Italy) December 2024*
+  *IEEE 63rd Conference on Decision and Control, Milan (Italy) December 2024*
 
 - **Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
-  *PhD Student Day, L2S*, September 2024  
+  *Ph.D. Student Day, L2S*, September 2024  
   
 - **Building Coercive Lyapunov-Krasovskii Functionals Based on Razumikhin and Halanay Conditions**  
-  *PhD Students and Postdoc Seminar, L2S*, June 2024  
+  *Ph.D. Student and Postdoc Seminar, L2S*, June 2024  
 
 - **[Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation](https://canum2024.math.cnrs.fr/programme/soumission/9550b0e6-6cde-4273-9cf6-ba8950814927/presentation.pdf)**  
   *Congrès National d’Analyse Numérique, Île de Ré (La Rochelle) May 2024*
 
 - **Poster: Getting LKF-wise dissipation to ensure Input-to-State Stability for Time-Delay Systems**  
-  *PhD Student Day, L2S*, September 2023  
+  *Ph.D. Student Day, L2S*, September 2023  
   
 - **Novel Point-Wise Dissipation Conditions in Input-to-State Stability for Time-Delay Systems**  
-  *PhD Students and Postdoc Seminar, L2S*, June 2023   
+  *Ph.D. Student and Postdoc Seminar, L2S*, June 2023   
 
 - **[Input-to-State Stability of Time-Delay Systems: Lyapunov-Based Results](https://cermics-lab.enpc.fr/wp-content/uploads/2017/03/Presentation_Cermics.pdf)**  
   *Young Researcher Seminar, CERMICS, April 2023*  
