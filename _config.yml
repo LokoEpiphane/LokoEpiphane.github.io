@@ -4,8 +4,6 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
 
-# Activer/Désactiver le bouton de téléchargement sur GitHub Pages
-show_downloads: false
 
 # Menu de navigation
 menu:
