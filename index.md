@@ -1,7 +1,22 @@
 ---
 title: "Epiphane Loko"
 ---
-![Ma photo](https://github.com/user-attachments/assets/e6f1dcb7-ec63-4627-9b19-5dc91bdc0353){: style="float: right; width: 80px; border-radius: 50%;" }
+
+<style>
+  .site-header {
+    position: relative;
+  }
+  .custom-logo {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    width: 80px;  /* Ajuste la taille */
+    height: 80px;
+    border-radius: 50%;
+  }
+</style>
+
+<img class="custom-logo" src="https://github.com/user-attachments/assets/e6f1dcb7-ec63-4627-9b19-5dc91bdc0353">
 
 ##  ℹ️ About Me  
 
