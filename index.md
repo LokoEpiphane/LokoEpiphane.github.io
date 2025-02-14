@@ -1,3 +1,4 @@
+![Ma photo](https://github.com/user-attachments/assets/e6f1dcb7-ec63-4627-9b19-5dc91bdc0353){: style="float: right; width: 80px; border-radius: 50%;" }
 ---
 title: "Epiphane Loko"
 ---
