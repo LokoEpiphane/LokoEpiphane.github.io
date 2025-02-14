@@ -8,10 +8,10 @@ title: "Epiphane Loko"
   }
   .custom-logo {
     position: absolute;
-    top: 10px;
+    top: 5px;
     right: 20px;
-    width: 80px;  /* Ajuste la taille */
-    height: 80px;
+    width: 100px;  /* Ajuste la taille */
+    height: 100px;
     border-radius: 50%;
   }
 </style>
