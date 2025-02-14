@@ -1,7 +1,3 @@
-## Epiphane Loko
-
-CERMICS, École nationale des ponts et chaussées & L2S, Paris-Saclay University | dagbegnon.loko@enpc.fr
-
 ##  ℹ️ About Me  
 
 ### **PhD Candidate in Control, Stability, and Stabilization Theory**  
