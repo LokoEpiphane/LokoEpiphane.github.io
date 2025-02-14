@@ -97,6 +97,6 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ## 📄 CV  
  
-📄 **[Download my CV](https://github.com/user-attachments/files/18690641/CV_Epiphane.pdf)**  
+📄 **[Download my CV](https://github.com/user-attachments/files/18801389/Epiphane_CV.pdf)**  
 
 ---
