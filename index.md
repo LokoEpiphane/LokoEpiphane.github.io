@@ -38,8 +38,8 @@ My research focuses on control theory, especially the stability and stabilizatio
 ## 📚 Research Publications  
  
 ### **Journal Articles** 
-1. **[I. Karafyllis, E. Loko, M. Krstic, A. Chaillet](http://arxiv.org/abs/2502.09310)**, *Global Stabilization of Chemostats with Nonzero Mortality and Substrate Dynamics*, **Preprint, 2025** 
-2. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, *Rapid Stabilization of General Linear Systems with F-equivalence*, **Preprint, 2024**.  
+1. **[I. Karafyllis, E. Loko, M. Krstic, A. Chaillet](http://arxiv.org/abs/2502.09310)**, *Global Stabilization of Chemostats with Nonzero Mortality and Substrate Dynamics*, **Preprint submitted, 2025** 
+2. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, *Rapid Stabilization of General Linear Systems with F-equivalence*, **Preprint submitted, 2024**.  
 3. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, *Building Coercive Lyapunov–Krasovskii Functionals Based on Razumikhin and Halanay Approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
 
 ### **Conference Proceedings**  
