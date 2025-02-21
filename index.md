@@ -22,7 +22,7 @@ title: "Epiphane Loko"
 
 ### **Ph.D. Candidate in Control, Stability, and Stabilization Theory**  
 
-I am currently pursuing a Ph.D. under the joint supervision of **[Antoine Chaillet](https://l2s.centralesupelec.fr/u/chaillet-antoine/)** ([L2S](https://l2s.centralesupelec.fr/), Paris-Saclay University) and **[Amaury Hayat](http://cermics.enpc.fr/~hayata/)** ([CERMICS](https://cermics-lab.enpc.fr/), École nationale des ponts et chaussées), since September 2022.  
+I am currently pursuing a Ph.D. under the joint supervision of **[Antoine Chaillet](https://sites.google.com/site/antoinechaillet/home)** ([L2S](https://l2s.centralesupelec.fr/), Paris-Saclay University) and **[Amaury Hayat](http://cermics.enpc.fr/~hayata/)** ([CERMICS](https://cermics-lab.enpc.fr/), École nationale des ponts et chaussées), since September 2022.  
 
 My research focuses on control theory, especially the stability and stabilization of finite and infinite-dimensional systems, including time-delay systems and partial differential equations (PDEs).  
 
