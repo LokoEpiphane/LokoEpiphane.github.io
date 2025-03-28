@@ -50,7 +50,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 ## 🎤 Academic Presentations and Talks 
 
 - **Rapid stabilization of general linear PDE and ISS of TDS under point-wise dissipation**
-   *Ph.D. Math seminar, UM5 Rabat (Morocco), February 2025: Online*
+   *[Ph.D. Math seminar](https://www.linkedin.com/posts/phdmathseminar-fsr_we-would-like-to-express-our-sincere-gratitude-activity-7296119134583488512-guOy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVHd_sB3kyT4PpSkJtnS8gzlbDzuaYFTpc), UM5 Rabat (Morocco), February 2025: Online*
  
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
   *IEEE 63rd Conference on Decision and Control, Milan (Italy) December 2024*
