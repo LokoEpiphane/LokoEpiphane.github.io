@@ -32,6 +32,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 ## 🏆 Awards  
 - **September 2024**: *Best Presentation Award of the Automatic team at L2S*, Ph.D. Student Day  
 - **September 2021 - July 2022**: *Bezout M2 scholarship*
+- **September 2020 -July 2021**: Recipient of the full Master's scholarship by the African Center of Excellence (CEA-SMIA)
 
 ---
  
@@ -96,7 +97,10 @@ My research focuses on control theory, especially the stability and stabilizatio
 ---
 
 ## 📄 CV  
- 
- **[Download my CV](https://github.com/user-attachments/files/18801389/Epiphane_CV.pdf)**  
+
+ **[Download my CV(English)](https://github.com/user-attachments/files/19900247/Epiphane_CV.5.pdf)**
+
+ **[Download my CV(Français)](https://github.com/user-attachments/files/19900300/Epiphane_CV_french.1.pdf)**
+  
 
 ---
