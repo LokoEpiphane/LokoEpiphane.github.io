@@ -31,8 +31,8 @@ My research focuses on control theory, especially the stability and stabilizatio
  
 ## 🏆 Awards  
 - **September 2024**: *Best Presentation Award of the Automatic team at L2S*, Ph.D. Student Day  
-- **September 2021 - July 2022**: *Bezout M2 scholarship*
-- **September 2020 -July 2021**: Recipient of the full Master's scholarship by the African Center of Excellence (CEA-SMIA)
+- **September 2021 - July 2022**: *[Bezout M2 scholarship](https://labex-bezout.fr/alumni/)*
+- **September 2020 -July 2021**: Recipient of the full Master's scholarship by the African Center of Excellence **[CEA-SMIA](https://ceasma-benin.org/fichiers/documents_rapports/6y43f0pvdebourse2020-2021.pdf)**
 
 ---
  
