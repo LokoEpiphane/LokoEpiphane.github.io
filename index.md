@@ -51,15 +51,15 @@ My research focuses on control theory, especially the stability and stabilizatio
 ## 🎤 Academic Presentations and Talks 
 
 - **Rapid stabilization of general linear PDE and ISS of TDS under point-wise dissipation**
-   *[Ph.D. Math seminar](https://www.linkedin.com/posts/phdmathseminar-fsr_we-would-like-to-express-our-sincere-gratitude-activity-7296119134583488512-guOy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVHd_sB3kyT4PpSkJtnS8gzlbDzuaYFTpc), UM5 Rabat (Morocco), February 2025: Online*,[Slides](https://github.com/user-attachments/files/19900499/Presentation_Seminar_Rabat.5.pdf)
+   *[Ph.D. Math seminar](https://www.linkedin.com/posts/phdmathseminar-fsr_we-would-like-to-express-our-sincere-gratitude-activity-7296119134583488512-guOy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVHd_sB3kyT4PpSkJtnS8gzlbDzuaYFTpc), UM5 Rabat (Morocco), February 2025: Online*, [Slides](https://github.com/user-attachments/files/19900499/Presentation_Seminar_Rabat.5.pdf)
 
  
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
-  *IEEE 63rd Conference on Decision and Control, Milan (Italy) December 2024*,[Slides](https://github.com/user-attachments/files/19900493/Presentation_CDC_2024.7.pdf)
+  *IEEE 63rd Conference on Decision and Control, Milan (Italy) December 2024*, [Slides](https://github.com/user-attachments/files/19900493/Presentation_CDC_2024.7.pdf)
 
 
 - **Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
-  *Ph.D. Student Day, L2S*, September 2024,[Slides](https://github.com/user-attachments/files/19900477/Presentation_JDD_L2S_Sep2024.pdf)
+  *Ph.D. Student Day, L2S*, September 2024, [Slides](https://github.com/user-attachments/files/19900477/Presentation_JDD_L2S_Sep2024.pdf)
   
   
 - **Building Coercive Lyapunov-Krasovskii Functionals Based on Razumikhin and Halanay Conditions**  
@@ -70,7 +70,7 @@ My research focuses on control theory, especially the stability and stabilizatio
   *Congrès National d’Analyse Numérique, Île de Ré (La Rochelle) May 2024*, [Slides](https://canum2024.math.cnrs.fr/programme/soumission/9550b0e6-6cde-4273-9cf6-ba8950814927/presentation.pdf)
 
 - **Poster: Getting LKF-wise dissipation to ensure Input-to-State Stability for Time-Delay Systems**  
-  *Ph.D. Student Day, L2S*, September 2023, [poster.pdf](https://github.com/user-attachments/files/19900448/poster.pdf)
+  *Ph.D. Student Day, L2S*, September 2023, [Poster.pdf](https://github.com/user-attachments/files/19900448/poster.pdf)
   
   
 - **Novel Point-Wise Dissipation Conditions in Input-to-State Stability for Time-Delay Systems**  
