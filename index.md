@@ -51,10 +51,10 @@ My research focuses on control theory, especially the stability and stabilizatio
 ## 🎤 Academic Presentations and Talks 
 
 ### **International conferences**
-- **Rapid stabilization of general linear PDE with F-equivalence** *5th IFAC/IEEE-CSS Workshop on Control of systems governed by Partial Differential Equations, Beijing (China) 2025*[Presentation_CPDE_2025_Beijing (2).pdf](https://github.com/user-attachments/files/21118594/Presentation_CPDE_2025_Beijing.2.pdf)
+- **Rapid stabilization of general linear PDE with F-equivalence** *5th IFAC/IEEE-CSS Workshop on Control of systems governed by Partial Differential Equations, Beijing (China) 2025*, [Slides](https://github.com/user-attachments/files/21118594/Presentation_CPDE_2025_Beijing.2.pdf)
 
 
-- **Stabilization of chemostats with mortality and substrate dynamics** *12e Biennale de la Société des Mathématiques Appliquées et Industrielles, Cancans Maubuisson (France) June 2025*,[Presentation_SMAI_2025 (1).pdf](https://github.com/user-attachments/files/21118525/Presentation_SMAI_2025.1.pdf)
+- **Stabilization of chemostats with mortality and substrate dynamics** *12e Biennale de la Société des Mathématiques Appliquées et Industrielles, Cancans Maubuisson (France) June 2025*, [Slides](https://github.com/user-attachments/files/21118525/Presentation_SMAI_2025.1.pdf)
 
 
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
@@ -66,7 +66,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 
 ### **Invited lectures and seminars**
-- **ISS for TDS with point-wise dissipation and F-equivalence for general linear PDE: Applications** *[Seminar of School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/168617.htm), China, June 2025*, [Présentation-Pékin-2025.pdf](https://github.com/user-attachments/files/21118750/Presentation-Pekin-2025.pdf)
+- **ISS for TDS with point-wise dissipation and F-equivalence for general linear PDE: Applications** *[Seminar of School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/168617.htm), China, June 2025*, [Slides](https://github.com/user-attachments/files/21118750/Presentation-Pekin-2025.pdf)
  
 
 - **Rapid stabilization of general linear PDE and ISS of TDS under point-wise dissipation**
