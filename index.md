@@ -122,7 +122,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 
  **[My CV (English)](https://github.com/user-attachments/files/22081729/Epiphane_Loko_cv_.pdf)**
 
- **[Epiphane_CV_french_.pdf](https://github.com/user-attachments/files/22081737/Epiphane_CV_french_.pdf)**
+ **[Mon CV (Français)](https://github.com/user-attachments/files/22081737/Epiphane_CV_french_.pdf)**
   
 
 ---
