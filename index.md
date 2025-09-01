@@ -66,6 +66,10 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 
 ### **Invited lectures and seminars**
+- **ISS for TDS with point-wise dissipation and F-equivalence for general linear PDE: Applications** *Seminar of LAGEPP, University of Lyon 1, France, August 2025*, [Slides](https://github.com/user-attachments/files/22081750/Presentation_LYON_2025.3.pdf)
+
+ 
+
 - **ISS for TDS with point-wise dissipation and F-equivalence for general linear PDE: Applications** *[Seminar of School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/168617.htm), China, June 2025*, [Slides](https://github.com/user-attachments/files/21118750/Presentation-Pekin-2025.pdf)
  
 
@@ -116,9 +120,9 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ## 📄 CV  
 
- **[Download my CV (English)](https://github.com/user-attachments/files/21120996/Epiphane_Loko_cv.1.pdf)**
+ **[My CV (English)](https://github.com/user-attachments/files/22081729/Epiphane_Loko_cv_.pdf)**
 
- **[Mon CV (Français)](https://github.com/user-attachments/files/21121631/Epiphane_CV_french.2.pdf)**
+ **[Epiphane_CV_french_.pdf](https://github.com/user-attachments/files/22081737/Epiphane_CV_french_.pdf)**
   
 
 ---
