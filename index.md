@@ -54,7 +54,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 - **Rapid stabilization of general linear PDE with F-equivalence** *5th IFAC/IEEE-CSS Workshop on Control of systems governed by Partial Differential Equations, Beijing (China) 2025*, [Slides](https://github.com/user-attachments/files/21118594/Presentation_CPDE_2025_Beijing.2.pdf)
 
 
-- **Stabilization of chemostats with mortality and substrate dynamics** *12e Biennale de la Société des Mathématiques Appliquées et Industrielles, Cancans Maubuisson (France) June 2025*, [Slides](https://github.com/user-attachments/files/21118525/Presentation_SMAI_2025.1.pdf)
+- **Stabilization of chemostats with mortality and substrate dynamics** *12e Biennale de la Société des Mathématiques Appliquées et Industrielles, Carcans Maubuisson (France) June 2025*, [Slides](https://github.com/user-attachments/files/21118525/Presentation_SMAI_2025.1.pdf)
 
 
 - **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
