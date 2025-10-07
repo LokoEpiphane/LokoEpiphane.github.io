@@ -93,8 +93,8 @@ My research focuses on control theory, especially the stability and stabilizatio
   *Ph.D. Student and Postdoc Seminar, L2S*, June 2023, [Slides](https://github.com/user-attachments/files/19900424/Presentation_L2S.pdf)
   
 
-- **[Input-to-State Stability of Time-Delay Systems: Lyapunov-Based Results](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/)**  
-  *Young Researcher Seminar, CERMICS, April 2023* [Slides](https://cermics-lab.enpc.fr/wp-content/uploads/2017/03/Presentation_Cermics.pdf) 
+- **Input-to-State Stability of Time-Delay Systems: Lyapunov-Based Results**  
+  *[Young Researcher Seminar, CERMICS, April 2023](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/)* [Slides](https://cermics-lab.enpc.fr/wp-content/uploads/2017/03/Presentation_Cermics.pdf) 
   **[📹 Video](https://www.youtube.com/watch?v=6dXmpGbGNpE)**  
 
 ---
