@@ -20,9 +20,11 @@ title: "Epiphane Loko"
 
 ##  ℹ️ About Me  
 
-### **Ph.D. Candidate in Control, Stability, and Stabilization Theory**  
+### **Postdoctoral Researcher in Control Theory and Machine Learning ** 
 
-I am currently pursuing a Ph.D. under the joint supervision of **[Antoine Chaillet](https://sites.google.com/site/antoinechaillet/home)** ([L2S](https://l2s.centralesupelec.fr/), Paris-Saclay University) and **[Amaury Hayat](http://cermics.enpc.fr/~hayata/)** ([CERMICS](https://cermics-lab.enpc.fr/), École nationale des ponts et chaussées), since September 2022.  
+I am currently a Postdoctoral Researcher under the supervision of **[Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/)** at **[Gipsa Lab](https://www.gipsa-lab.grenoble-inp.fr/)** (Univerisité de Grenoble Alpes), working on machine learning approaches for the control of PDEs
+
+Before that, I completed my Ph.D. at Ecole nationale des ponts et chaussées – Institut Polytechnique de Paris, co-supervised by **[Antoine Chaillet](https://sites.google.com/site/antoinechaillet/home)** and **[Amaury Hayat](http://cermics.enpc.fr/~hayata/)**.  
 
 My research focuses on control theory, especially the stability and stabilization of finite and infinite-dimensional systems, including time-delay systems and partial differential equations (PDEs).  
 
