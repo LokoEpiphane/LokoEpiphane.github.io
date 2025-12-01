@@ -20,7 +20,7 @@ title: "Epiphane Loko"
 
 ##  ℹ️ About Me  
 
-### **Postdoctoral Researcher in Control Theory and Machine Learning ** 
+### **Postdoctoral Researcher in Control Theory and Machine Learning** 
 
 I am currently a Postdoctoral Researcher under the supervision of **[Christophe Prieur](https://www.gipsa-lab.grenoble-inp.fr/~christophe.prieur/)** at **[Gipsa Lab](https://www.gipsa-lab.grenoble-inp.fr/)** (Univerisité de Grenoble Alpes), working on machine learning approaches for the control of PDEs
 
