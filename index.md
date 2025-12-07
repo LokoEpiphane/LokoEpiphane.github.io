@@ -45,8 +45,12 @@ My research focuses on control theory, especially the stability and stabilizatio
 2. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, *Rapid Stabilization of General Linear Systems with F-equivalence*, **Preprint submitted, 2024**.  
 3. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, *Building Coercive Lyapunov–Krasovskii Functionals Based on Razumikhin and Halanay Approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
 
-### **Conference Proceedings**  
- 1. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/10886321)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.  
+### **Conference Proceedings** 
+ 1. **[E. Loko, A. Chaillet](https://github.com/user-attachments/files/24015412/Converse-results-paper-Epiphane.pdf)**, *Converse Lyapunov result for exponential ISS of time-delay systems*, **in Preparation 2025**.
+ 2. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/10886321)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
+
+## **PhD Manuscript**
+ 1. **[E. Loko](https://github.com/user-attachments/files/24015431/PhD-manuscript-Epiphane-LOKO.pdf)**, *Stability Analysis of Infinite Dimensional Systems and Perturbation Effects: Theory and Applications*, **2025**.
 
 ---
  
@@ -67,7 +71,7 @@ My research focuses on control theory, especially the stability and stabilizatio
   *Congrès National d’Analyse Numérique, Île de Ré (France) May 2024*, [Slides](https://canum2024.math.cnrs.fr/programme/soumission/9550b0e6-6cde-4273-9cf6-ba8950814927/presentation.pdf)
 
 
-### **Invited lectures and seminars**
+### **Talks as invited external guest**
 - **ISS for TDS with point-wise dissipation and F-equivalence for general linear PDE: Applications** *Seminar of LAGEPP, University of Lyon 1, France, August 2025*, [Slides](https://github.com/user-attachments/files/22081750/Presentation_LYON_2025.3.pdf)
 
  
@@ -79,6 +83,7 @@ My research focuses on control theory, especially the stability and stabilizatio
    *[Ph.D. Math seminar](https://www.linkedin.com/posts/phdmathseminar-fsr_we-would-like-to-express-our-sincere-gratitude-activity-7296119134583488512-guOy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVHd_sB3kyT4PpSkJtnS8gzlbDzuaYFTpc), UM5 Rabat (Morocco), February 2025: Online*, [Slides](https://github.com/user-attachments/files/19900499/Presentation_Seminar_Rabat.5.pdf)
 
 
+### *Talks/Poster in internal seminars, Ph.D. student Day   
 - **Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
   *Ph.D. Student Day, L2S*, September 2024, [Slides](https://github.com/user-attachments/files/19900477/Presentation_JDD_L2S_Sep2024.pdf)
   
