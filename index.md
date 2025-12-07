@@ -50,7 +50,7 @@ My research focuses on control theory, especially the stability and stabilizatio
  2. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/10886321)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
 
 ### **PhD Manuscript**
- 1. **[E. Loko](https://github.com/user-attachments/files/24015431/PhD-manuscript-Epiphane-LOKO.pdf)**, *Stability Analysis of Infinite Dimensional Systems and Perturbation Effects: Theory and Applications*, **2025**.
+**[E. Loko](https://github.com/user-attachments/files/24015431/PhD-manuscript-Epiphane-LOKO.pdf)**, *Stability Analysis of Infinite Dimensional Systems and Perturbation Effects: Theory and Applications*, **2025**.
 
 ---
  
