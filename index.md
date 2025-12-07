@@ -49,7 +49,7 @@ My research focuses on control theory, especially the stability and stabilizatio
  1. **[E. Loko, A. Chaillet](https://github.com/user-attachments/files/24015412/Converse-results-paper-Epiphane.pdf)**, *Converse Lyapunov result for exponential ISS of time-delay systems*, **in Preparation 2025**.
  2. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/10886321)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
 
-## **PhD Manuscript**
+### **PhD Manuscript**
  1. **[E. Loko](https://github.com/user-attachments/files/24015431/PhD-manuscript-Epiphane-LOKO.pdf)**, *Stability Analysis of Infinite Dimensional Systems and Perturbation Effects: Theory and Applications*, **2025**.
 
 ---
@@ -83,7 +83,7 @@ My research focuses on control theory, especially the stability and stabilizatio
    *[Ph.D. Math seminar](https://www.linkedin.com/posts/phdmathseminar-fsr_we-would-like-to-express-our-sincere-gratitude-activity-7296119134583488512-guOy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVHd_sB3kyT4PpSkJtnS8gzlbDzuaYFTpc), UM5 Rabat (Morocco), February 2025: Online*, [Slides](https://github.com/user-attachments/files/19900499/Presentation_Seminar_Rabat.5.pdf)
 
 
-### *Talks/Poster in internal seminars, Ph.D. student Day   
+### **Talks/Poster in internal seminars, Ph.D. student Day**   
 - **Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
   *Ph.D. Student Day, L2S*, September 2024, [Slides](https://github.com/user-attachments/files/19900477/Presentation_JDD_L2S_Sep2024.pdf)
   
@@ -112,7 +112,7 @@ My research focuses on control theory, especially the stability and stabilizatio
   *Analysis and Partial Differential Equations*, **1st-year undergraduate students (30 hours)**  
 
 - **April 2024**  
-  *Sobolev Spaces and Distribution Theory*, **Master 1 IMI (4 hours)**  
+  *Sobolev Spaces and Distribution Theory*, **Master 1 IMI (3 hours)**  
 
 - **September 2023 - January 2024**  
   *Analysis and Partial Differential Equations*, **1st-year undergraduate students (25 hours)**    
