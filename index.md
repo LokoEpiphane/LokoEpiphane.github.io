@@ -41,16 +41,16 @@ My research focuses on control theory, especially the stability and stabilizatio
 ## 📚 Research Publications  
  
 ### **Journal Articles** 
-1. **[I. Karafyllis, E. Loko, M. Krstic, A. Chaillet](http://arxiv.org/abs/2502.09310)**, *Global Stabilization of Chemostats with Nonzero Mortality and Substrate Dynamics*, **Preprint submitted, 2025** 
-2. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, *Rapid Stabilization of General Linear Systems with F-equivalence*, **Preprint submitted, 2024**.  
-3. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, *Building Coercive Lyapunov–Krasovskii Functionals Based on Razumikhin and Halanay Approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
+1. **[I. Karafyllis, E. Loko, M. Krstic, A. Chaillet](http://arxiv.org/abs/2502.09310)**, *Global stabilization of Chemostats with nonzero mortality and substrate Dynamics*, **Preprint submitted, 2025** 
+2. **[A. Hayat and E. Loko](http://cermics.enpc.fr/~hayata/F_equivalence_general_linear.pdf)**, *Rapid stabilization of general linear systems with F-equivalence*, **Preprint submitted, 2024**.  
+3. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, *Building coercive Lyapunov–Krasovskii functionals based on Razumikhin and Halanay approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
 
 ### **Conference Proceedings** 
  1. **[E. Loko, A. Chaillet](https://github.com/user-attachments/files/24015412/Converse-results-paper-Epiphane.pdf)**, *Converse Lyapunov result for exponential ISS of time-delay systems*, **in Preparation 2025**.
- 2. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/10886321)**, *Growth Conditions to Ensure Input-to-State Stability of Time-Delay Systems Under Point-Wise Dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
+ 2. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/10886321)**, *Growth conditions to ensure input-to-state stability of time-delay systems under point-wise dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
 
 ### **PhD Manuscript**
-**[E. Loko](https://github.com/user-attachments/files/24015431/PhD-manuscript-Epiphane-LOKO.pdf)**, *Stability Analysis of Infinite Dimensional Systems and Perturbation Effects: Theory and Applications*, **2025**.
+**[E. Loko](https://github.com/user-attachments/files/24015431/PhD-manuscript-Epiphane-LOKO.pdf)**, *Stability analysis of infinite dimensional systems and perturbation effects: Theory and Applications*, **2025**.
 
 ---
  
@@ -63,11 +63,11 @@ My research focuses on control theory, especially the stability and stabilizatio
 - **Stabilization of chemostats with mortality and substrate dynamics** *12e Biennale de la Société des Mathématiques Appliquées et Industrielles, Carcans Maubuisson (France) June 2025*, [Slides](https://github.com/user-attachments/files/21118525/Presentation_SMAI_2025.1.pdf)
 
 
-- **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
+- **Growth Condition to ensure input-to-state stability of time-delay systems with point-wise dissipation**  
   *IEEE 63rd Conference on Decision and Control, Milan (Italy) December 2024*, [Slides](https://github.com/user-attachments/files/19900493/Presentation_CDC_2024.7.pdf)
   
 
-- **Growth Condition to Ensure Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
+- **Growth condition to ensure input-to-state stability of time-delay systems with point-wise dissipation**  
   *Congrès National d’Analyse Numérique, Île de Ré (France) May 2024*, [Slides](https://canum2024.math.cnrs.fr/programme/soumission/9550b0e6-6cde-4273-9cf6-ba8950814927/presentation.pdf)
 
 
@@ -84,23 +84,23 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 
 ### **Talks/Poster in internal seminars, Ph.D. student Day**   
-- **Input-to-State Stability of Time-Delay Systems with Point-Wise Dissipation**  
+- **Input-to-state stability of time-delay systems with point-wise dissipation**  
   *Ph.D. Student Day, L2S*, September 2024, [Slides](https://github.com/user-attachments/files/19900477/Presentation_JDD_L2S_Sep2024.pdf)
   
   
-- **Building Coercive Lyapunov-Krasovskii Functionals Based on Razumikhin and Halanay Conditions**  
+- **Building Coercive Lyapunov-Krasovskii functionals based on Razumikhin and Halanay conditions**  
   *Ph.D. Student and Postdoc Seminar, L2S*, June 2024, [Slides](https://github.com/user-attachments/files/19900461/Presentattion-L2S-2024.pdf)
  
 
-- **Poster: Getting LKF-wise dissipation to ensure Input-to-State Stability for Time-Delay Systems**  
+- **Poster: Getting LKF-wise dissipation to ensure input-to-state stability for time-delay systems**  
   *Ph.D. Student Day, L2S*, September 2023, [Poster.pdf](https://github.com/user-attachments/files/19900448/poster.pdf)
   
   
-- **Novel Point-Wise Dissipation Conditions in Input-to-State Stability for Time-Delay Systems**  
+- **Novel point-wise dissipation conditions in input-to-state stability for time-delay systems**  
   *Ph.D. Student and Postdoc Seminar, L2S*, June 2023, [Slides](https://github.com/user-attachments/files/19900424/Presentation_L2S.pdf)
   
 
-- **Input-to-State Stability of Time-Delay Systems: Lyapunov-Based Results**  
+- **Input-to-state stability of time-delay systems: Lyapunov-based results**  
   *[Young Researcher Seminar, CERMICS, April 2023](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/),* [Slides](https://cermics-lab.enpc.fr/wp-content/uploads/2017/03/Presentation_Cermics.pdf) 
   **[📹 Video](https://www.youtube.com/watch?v=6dXmpGbGNpE)**  
 
@@ -127,9 +127,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ## 📄 CV  
 
- **[My CV (English)](https://github.com/user-attachments/files/22081729/Epiphane_Loko_cv_.pdf)**
-
- **[Mon CV (Français)](https://github.com/user-attachments/files/22081737/Epiphane_CV_french_.pdf)**
+ **[Mon CV (Français)](https://github.com/user-attachments/files/24596900/cv-llt.pdf)**
   
 
 ---
