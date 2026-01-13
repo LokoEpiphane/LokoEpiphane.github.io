@@ -127,6 +127,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ## 📄 CV  
 
- **[Mon CV (Français)](https://github.com/user-attachments/files/24596900/cv-llt.pdf)**
+ **[Mon CV (Français)](https://github.com/user-attachments/files/24598012/cv-llt.pdf)**
+
   
 ---
