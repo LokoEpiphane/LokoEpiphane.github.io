@@ -46,11 +46,12 @@ My research focuses on control theory, especially the stability and stabilizatio
 3. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, *Building coercive Lyapunov–Krasovskii functionals based on Razumikhin and Halanay approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
 
 ### **Conference Proceedings** 
- 1. **[E. Loko, A. Chaillet](https://github.com/user-attachments/files/24015412/Converse-results-paper-Epiphane.pdf)**, *Converse Lyapunov result for exponential ISS of time-delay systems*, **in Preparation 2025**.
- 2. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/10886321)**, *Growth conditions to ensure input-to-state stability of time-delay systems under point-wise dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
+ 1. **[E. Loko, T. Meurer, C. Prieur](https://github.com/user-attachments/files/26461233/CDC-Paper-Epiphane2026.pdf)**, *Stabilization of linear finite-dimensional systems using continuous neural networks*, **Preprint submited, 2026**
+ 2. **[E. Loko, A. Chaillet](https://github.com/user-attachments/files/24015412/Converse-results-paper-Epiphane.pdf)**, *Converse Lyapunov result for exponential ISS of time-delay systems*, **Preprint 2026**.
+ 3. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/10886321)**, *Growth conditions to ensure input-to-state stability of time-delay systems under point-wise dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
 
 ### **PhD Manuscript**
-**[E. Loko](https://github.com/user-attachments/files/24015431/PhD-manuscript-Epiphane-LOKO.pdf)**, *Stability analysis of infinite dimensional systems and perturbation effects: Theory and Applications*, **2025**.
+**[E. Loko](https://theses.hal.science/tel-05503136/)**, *Stability analysis of infinite dimensional systems and perturbation effects: Theory and Applications*, **2025**. [Slides](https://github.com/user-attachments/files/26461110/PRESENTATION-THESE-EPIPHANE.pdf)
 
 ---
  
