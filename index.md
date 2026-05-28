@@ -42,13 +42,13 @@ My research focuses on control theory, especially the stability and stabilizatio
  
 ### **Journal Articles** 
 1. **[I. Karafyllis, E. Loko, M. Krstic, A. Chaillet](http://arxiv.org/abs/2502.09310)**, *Global stabilization of Chemostats with nonzero mortality and substrate dynamics*, **Preprint submitted, 2025**. 
-2. **[A. Hayat and E. Loko](https://authors.elsevier.com/c/1mnY151yEtdBQ)**, *Rapid stabilization of general linear systems with F-equivalence*, **Journal of Functional Analysis, 2025**.  
-3. **[E. Loko, A. Chaillet, and I. Karafyllis](https://onlinelibrary.wiley.com/doi/full/10.1002/rnc.7229)**, *Building coercive Lyapunov–Krasovskii functionals based on Razumikhin and Halanay approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
+2. **[A. Hayat and E. Loko](https://github.com/user-attachments/files/28353548/Rapid-stabilization-ELoko.pdf)**, *Rapid stabilization of general linear systems with F-equivalence*, **Journal of Functional Analysis, 2025**.  
+3. **[E. Loko, A. Chaillet, and I. Karafyllis](https://github.com/user-attachments/files/28353921/Intl.J.Robust.Nonlinear.-.2024.-.Loko.-.Building.coercive.Lyapunov.Krasovskii.functionals.based.on.Razumikhin.and.Halanay.pdf)**, *Building coercive Lyapunov–Krasovskii functionals based on Razumikhin and Halanay approaches*, **International Journal of Robust and Nonlinear Control, 2024**.  
 
 ### **Conference Proceedings** 
  1. **[E. Loko, T. Meurer, C. Prieur](https://github.com/user-attachments/files/26461233/CDC-Paper-Epiphane2026.pdf)**, *Stabilization of linear finite-dimensional systems using continuous neural networks*, **Preprint submited, 2026**
  2. **[E. Loko, A. Chaillet](https://github.com/user-attachments/files/24015412/Converse-results-paper-Epiphane.pdf)**, *Converse Lyapunov result for exponential ISS of time-delay systems*, **Preprint 2026**.
- 3. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://ieeexplore-ieee-org.ezproxy.universite-paris-saclay.fr/abstract/document/10886321)**, *Growth conditions to ensure input-to-state stability of time-delay systems under point-wise dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
+ 3. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://github.com/user-attachments/files/28353037/Growth_conditions_to_ensure_input-to-state_stability_of_time-delay_systems_under_point-wise_dissipation.pdf)**, *Growth conditions to ensure input-to-state stability of time-delay systems under point-wise dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
 
 ### **PhD Manuscript**
 📘 **[E. Loko](https://theses.hal.science/tel-05503136/)**, *Stability analysis of infinite dimensional systems and perturbation effects: Theory and Applications*, **2025**. [Slides](https://github.com/user-attachments/files/26461110/PRESENTATION-THESE-EPIPHANE.pdf)
