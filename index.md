@@ -130,6 +130,4 @@ My research focuses on control theory, especially the stability and stabilizatio
 
  [Download my CV ](https://github.com/user-attachments/files/28501117/CV.english.Epiphane.pdf)
 
-
-  
 ---
