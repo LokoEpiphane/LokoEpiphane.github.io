@@ -48,7 +48,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 ### **Conference Proceedings** 
  1. **[E. Loko, T. Meurer, C. Prieur](https://github.com/user-attachments/files/26461233/CDC-Paper-Epiphane2026.pdf)**, *Stabilization of linear finite-dimensional systems using continuous neural networks*, **Preprint submited, 2026**
  2. **[E. Loko, A. Chaillet](https://github.com/user-attachments/files/24015412/Converse-results-paper-Epiphane.pdf)**, *Converse Lyapunov result for exponential ISS of time-delay systems*, **Preprint 2026**.
- 3. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://github.com/user-attachments/files/28353037/Growth_conditions_to_ensure_input-to-state_stability_of_time-delay_systems_under_point-wise_dissipation.pdf)**, *Growth conditions to ensure input-to-state stability of time-delay systems under point-wise dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
+ 3. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://ieeexplore.ieee.org/abstract/document/10886321)**, *Growth conditions to ensure input-to-state stability of time-delay systems under point-wise dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
 
 ### **PhD Manuscript**
 📘 **[E. Loko](https://theses.hal.science/tel-05503136/)**, *Stability analysis of infinite dimensional systems and perturbation effects: Theory and Applications*, **2025**. [Slides](https://github.com/user-attachments/files/26461110/PRESENTATION-THESE-EPIPHANE.pdf)
@@ -128,7 +128,8 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ## 📄 CV  
 
- [Mon CV (Français)](https://github.com/user-attachments/files/25575456/cv-llt.pdf)
+ [Download my CV ](https://github.com/user-attachments/files/28501117/CV.english.Epiphane.pdf)
+
 
   
 ---
