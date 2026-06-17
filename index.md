@@ -51,14 +51,14 @@ My research focuses on control theory, especially the stability and stabilizatio
  3. **[E. Loko, A. Chaillet, Y. Wang, I. Karafyllis, and P. Pepe](https://ieeexplore.ieee.org/abstract/document/10886321)**, *Growth conditions to ensure input-to-state stability of time-delay systems under point-wise dissipation*, **IEEE 63rd Conference on Decision and Control 2024**.
 
 ### **PhD Manuscript**
-📘 **[E. Loko](https://theses.hal.science/tel-05503136/)**, *Stability analysis of infinite dimensional systems and perturbation effects: Theory and Applications*, **2025**. [Slides](https://github.com/user-attachments/files/26461110/PRESENTATION-THESE-EPIPHANE.pdf)
+📘 **[E. Loko](https://theses.hal.science/tel-05503136/)**, *Stability analysis of infinite dimensional systems and perturbation effects: Theory and Applications*, **2025**. [Slides](PRESENTATION-THESE-EPIPHANE.pdf)
 
 ---
  
 ## 🎤 Academic Presentations and Talks 
 
 ### **International conferences**
-- **Rapid stabilization of general linear PDE with F-equivalence** *5th IFAC/IEEE-CSS Workshop on Control of systems governed by Partial Differential Equations, Beijing (China) 2025*, [Slides](Presentation_CPDE_2025_Beijing.2.pdf)
+- **Rapid stabilization of general linear PDE with F-equivalence** *5th IFAC/IEEE-CSS Workshop on Control of systems governed by Partial Differential Equations, Beijing (China) 2025*, [Slides](Presentation_CPDE_2025_Beijing (2).pdf)
 
 
 - **Stabilization of chemostats with mortality and substrate dynamics** *12e Biennale de la Société des Mathématiques Appliquées et Industrielles, Carcans Maubuisson (France) June 2025*, [Slides](Presentation_SMAI_2025.1.pdf)
@@ -90,7 +90,7 @@ My research focuses on control theory, especially the stability and stabilizatio
   
   
 - **Building Coercive Lyapunov-Krasovskii functionals based on Razumikhin and Halanay conditions**  
-  *Ph.D. Student and Postdoc Seminar, L2S*, June 2024, [Slides](Presentattion-L2S-2024.pdf)
+  *Ph.D. Student and Postdoc Seminar, L2S*, June 2024, [Slides](Présentattion-L2S-2024.pdf)
  
 
 - **Poster: Getting LKF-wise dissipation to ensure input-to-state stability for time-delay systems**  
