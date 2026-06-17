@@ -77,7 +77,7 @@ My research focuses on control theory, especially the stability and stabilizatio
 
  
 
-- **ISS for TDS with point-wise dissipation and F-equivalence for general linear PDE: Applications** *[Seminar of School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/168617.htm), China, June 2025*, [Slides](Presentation-Pekin-2025.pdf)
+- **ISS for TDS with point-wise dissipation and F-equivalence for general linear PDE: Applications** *[Seminar of School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/168617.htm), China, June 2025*, [Slides](Présentation-Pékin-2025.pdf)
  
 
 - **Rapid stabilization of general linear PDE and ISS of TDS under point-wise dissipation**
@@ -128,6 +128,6 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ## 📄 CV  
 
- [Here is my CV ](CV.english.Epiphane.pdf)
+ [Here is my CV ](CV english Epiphane.pdf)
  
  ---
