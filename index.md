@@ -86,11 +86,11 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 ### **Talks/Poster in internal seminars, Ph.D. student Day**   
 - **Input-to-state stability of time-delay systems with point-wise dissipation**  
-  *Ph.D. Student Day, L2S*, September 2024, [Slides](https://github.com/user-attachments/files/19900477/Presentation_JDD_L2S_Sep2024.pdf)
+  *Ph.D. Student Day, L2S*, September 2024, [Slides](Presentation_JDD_L2S_Sep2024.pdf)
   
   
 - **Building Coercive Lyapunov-Krasovskii functionals based on Razumikhin and Halanay conditions**  
-  *Ph.D. Student and Postdoc Seminar, L2S*, June 2024, [Slides](https://github.com/user-attachments/files/19900461/Presentattion-L2S-2024.pdf)
+  *Ph.D. Student and Postdoc Seminar, L2S*, June 2024, [Slides](Presentattion-L2S-2024.pdf)
  
 
 - **Poster: Getting LKF-wise dissipation to ensure input-to-state stability for time-delay systems**  
@@ -102,7 +102,7 @@ My research focuses on control theory, especially the stability and stabilizatio
   
 
 - **Input-to-state stability of time-delay systems: Lyapunov-based results**  
-  *[Young Researcher Seminar, CERMICS, April 2023](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/),* [Slides](https://cermics-lab.enpc.fr/wp-content/uploads/2017/03/Presentation_Cermics.pdf) 
+  *[Young Researcher Seminar, CERMICS, April 2023](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/),* [Slides](Presentation_Cermics.pdf) 
   **[📹 Video](https://www.youtube.com/watch?v=6dXmpGbGNpE)**  
 
 ---
