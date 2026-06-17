@@ -110,19 +110,19 @@ My research focuses on control theory, especially the stability and stabilizatio
 ## 👨‍🏫 Teaching Experience  
 
 - **September 2024 - January 2025**  
-  *Analysis and Partial Differential Equations*, **1st-year undergraduate students (30 hours)**  
+  *Analysis and Partial Differential Equations*, **1st-year undergraduate students**  
 
 - **April 2024**  
-  *Sobolev Spaces and Distribution Theory*, **Master 1 IMI (3 hours)**  
+  *Sobolev Spaces and Distribution Theory*, **Master 1 IMI**  
 
 - **September 2023 - January 2024**  
-  *Analysis and Partial Differential Equations*, **1st-year undergraduate students (25 hours)**    
+  *Analysis and Partial Differential Equations*, **1st-year undergraduate students**    
 
 - **January 2023**  
-  *Practical work*, **Master 1 IMI (3 hours)**  
+  *Practical work*, **Master 1 IMI**  
 
 - **December 2022**  
-  *Analysis and Scientific Calculus* (Fourier Transforms), **1st-year undergraduate students (3 hours)**
+  *Analysis and Scientific Calculus* (Fourier Transforms), **1st-year undergraduate students**
 
 ---
 
