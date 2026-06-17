@@ -58,14 +58,14 @@ My research focuses on control theory, especially the stability and stabilizatio
 ## 🎤 Academic Presentations and Talks 
 
 ### **International conferences**
-- **Rapid stabilization of general linear PDE with F-equivalence** *5th IFAC/IEEE-CSS Workshop on Control of systems governed by Partial Differential Equations, Beijing (China) 2025*, [Slides](https://github.com/user-attachments/files/21118594/Presentation_CPDE_2025_Beijing.2.pdf)
+- **Rapid stabilization of general linear PDE with F-equivalence** *5th IFAC/IEEE-CSS Workshop on Control of systems governed by Partial Differential Equations, Beijing (China) 2025*, [Slides](Presentation_CPDE_2025_Beijing.2.pdf)
 
 
-- **Stabilization of chemostats with mortality and substrate dynamics** *12e Biennale de la Société des Mathématiques Appliquées et Industrielles, Carcans Maubuisson (France) June 2025*, [Slides](https://github.com/user-attachments/files/21118525/Presentation_SMAI_2025.1.pdf)
+- **Stabilization of chemostats with mortality and substrate dynamics** *12e Biennale de la Société des Mathématiques Appliquées et Industrielles, Carcans Maubuisson (France) June 2025*, [Slides](Presentation_SMAI_2025.1.pdf)
 
 
 - **Growth Condition to ensure input-to-state stability of time-delay systems with point-wise dissipation**  
-  *IEEE 63rd Conference on Decision and Control, Milan (Italy) December 2024*, [Slides](https://github.com/user-attachments/files/19900493/Presentation_CDC_2024.7.pdf)
+  *IEEE 63rd Conference on Decision and Control, Milan (Italy) December 2024*, [Slides](Presentation_CDC_2024.7.pdf)
   
 
 - **Growth condition to ensure input-to-state stability of time-delay systems with point-wise dissipation**  
@@ -73,15 +73,15 @@ My research focuses on control theory, especially the stability and stabilizatio
 
 
 ### **Talks as invited external guest**
-- **ISS for TDS with point-wise dissipation and F-equivalence for general linear PDE: Applications** *Seminar of LAGEPP, University of Lyon 1, France, August 2025*, [Slides](https://github.com/user-attachments/files/22081750/Presentation_LYON_2025.3.pdf)
+- **ISS for TDS with point-wise dissipation and F-equivalence for general linear PDE: Applications** *Seminar of LAGEPP, University of Lyon 1, France, August 2025*, [Slides](Presentation_LYON_2025 (3).pdf)
 
  
 
-- **ISS for TDS with point-wise dissipation and F-equivalence for general linear PDE: Applications** *[Seminar of School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/168617.htm), China, June 2025*, [Slides](https://github.com/user-attachments/files/21118750/Presentation-Pekin-2025.pdf)
+- **ISS for TDS with point-wise dissipation and F-equivalence for general linear PDE: Applications** *[Seminar of School of Mathematical Sciences, Peking University](https://www.math.pku.edu.cn/kxyj/xsbg/tlb/analysisforpde/168617.htm), China, June 2025*, [Slides](Presentation-Pekin-2025.pdf)
  
 
 - **Rapid stabilization of general linear PDE and ISS of TDS under point-wise dissipation**
-   *[Ph.D. Math seminar](https://www.linkedin.com/posts/phdmathseminar-fsr_we-would-like-to-express-our-sincere-gratitude-activity-7296119134583488512-guOy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVHd_sB3kyT4PpSkJtnS8gzlbDzuaYFTpc), UM5 Rabat (Morocco), February 2025: Online*, [Slides](https://github.com/user-attachments/files/19900499/Presentation_Seminar_Rabat.5.pdf)
+   *[Ph.D. Math seminar](https://www.linkedin.com/posts/phdmathseminar-fsr_we-would-like-to-express-our-sincere-gratitude-activity-7296119134583488512-guOy?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVHd_sB3kyT4PpSkJtnS8gzlbDzuaYFTpc), UM5 Rabat (Morocco), February 2025: Online*, [Slides](Presentation_Seminar_Rabat.5.pdf)
 
 
 ### **Talks/Poster in internal seminars, Ph.D. student Day**   
@@ -94,11 +94,11 @@ My research focuses on control theory, especially the stability and stabilizatio
  
 
 - **Poster: Getting LKF-wise dissipation to ensure input-to-state stability for time-delay systems**  
-  *Ph.D. Student Day, L2S*, September 2023, [Poster.pdf](https://github.com/user-attachments/files/19900448/poster.pdf)
+  *Ph.D. Student Day, L2S*, September 2023, [Poster](poster.pdf)
   
   
 - **Novel point-wise dissipation conditions in input-to-state stability for time-delay systems**  
-  *Ph.D. Student and Postdoc Seminar, L2S*, June 2023, [Slides](https://github.com/user-attachments/files/19900424/Presentation_L2S.pdf)
+  *Ph.D. Student and Postdoc Seminar, L2S*, June 2023, [Slides](Presentation_L2S.pdf)
   
 
 - **Input-to-state stability of time-delay systems: Lyapunov-based results**  
